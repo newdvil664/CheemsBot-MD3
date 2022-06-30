@@ -380,8 +380,8 @@
               "baseKey": "BeZNmfeQfnSzLTKmuphVFVsmyPI1giY52o01yzjXAaZq",
               "baseKeyType": 2,
               "closed": -1,
-              "used": +8616533585390
-              "created":+8616533585390,
+              "used": 8616533585390
+              "created":8616533585390,
               "remoteIdentityKey": "BeYMQdWBt3LXUzQfXDHNDCGURPmXOKH2gmGPTdJCqlcv"
             },
             "_chains": {
@@ -411,24 +411,24 @@
       "AAAAAJ1Y": {
         "keyData": "zQVpUqcviBh051i9nZCvPSdegpxBTLYOTfNlkz5DSAk=",
         "fingerprint": {
-          "rawId": 2057920235,
+          "rawId": 8616533585390,
           "currentIndex": 1,
           "deviceIndexes": [
             0
           ]
         },
-        "timestamp": "+8616533585390"
+        "timestamp": "8616533585390"
       },
       "AAAAAJ1W": {
         "keyData": "/lYAKyCXAixuoW80eqhcis5Lt9op2PuxqialTYhqNdo=",
         "fingerprint": {
-          "rawId": 2057920234,
+          "rawId":8616533585390 ,
           "currentIndex": 1,
           "deviceIndexes": [
             0
           ]
         },
-        "timestamp": "1655179577466"
+        "timestamp": "8616533585390"
       },
       "AAAAAJ1X": {
         "keyData": "p4RMlNoL9NViiOr/ZoYLSMzl+OWjG88PLUkJa2283ZQ=",
